@@ -1,0 +1,2 @@
+# 3semester
+ejercicio6
